@@ -14,7 +14,7 @@ namespace SleepyDiscord {
 		online         ,
 		doNotDisturb   ,
 		idle           ,
-		invisuble      ,
+		invisible      ,
 		offline        
 	};
 
